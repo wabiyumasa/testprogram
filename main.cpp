@@ -15,7 +15,7 @@ int main()
 
 
 	cout << "branch" << endl;
-
+	cout << "commit2" << endl;
 	cout << "commit test" << endl;
 
 
