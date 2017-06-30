@@ -16,7 +16,7 @@ int main()
 
 	cout << "branch" << endl;
 	cout << "branch" << endl;
-
+	cout << "marge" << endl;
 	cout << "commit test" << endl;
 
 
