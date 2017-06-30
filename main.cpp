@@ -14,6 +14,7 @@ int main()
 	cout << n.getNumber1() << "/" << n.getNumber2() << "=" << n.div() << endl;
 
 	cout << "branch" << endl;
+	cout << "branch" << endl;
 
 	return 0;
 
