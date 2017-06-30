@@ -1,0 +1,10 @@
+diff a/main.cpp b/main.cpp	(rejected hunks)
+@@ -15,7 +15,7 @@
+ 
+ 
+ 	cout << "branch" << endl;
+-	cout << "commit2" << endl;
++
+ 	cout << "commit test" << endl;
+ 
+ 
